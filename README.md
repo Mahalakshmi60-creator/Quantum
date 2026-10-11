@@ -1,6 +1,10 @@
 # Quantum Random Number Generator (QRNG)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://mahalakshmi60-creator.github.io/Quantum/)
+
 A full-stack, research-grade **Quantum Random Number Generator (QRNG)** built with **Qiskit 2.5**, **FastAPI**, and **React**.
+
+- **Live Public URL**: [https://mahalakshmi60-creator.github.io/Quantum/](https://mahalakshmi60-creator.github.io/Quantum/)
 
 Designed and implemented in exact accordance with [ARCHITECTURE.md](ARCHITECTURE.md).
 
